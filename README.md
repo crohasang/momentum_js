@@ -11,6 +11,4 @@
 6. 화면 우측 상단에는 현재 사용자가 위치한 곳의 날씨, 기온, 그리고 현재 위치가 표시됩니다.(OpenWeatherMap api 사용)<br>(위치 확인 권한을 허용해줘야 작동합니다!)<br><br>
 7. 화면 맨 하단에는 명언과 작가의 이름이 랜덤으로 출력됩니다.<br><br>
 
-## 📖 참고 강의
-노마드코더의 '바닐라 JS로 크롬 앱 만들기' 강의를 참고하여 만들었습니다.
-[강의 링크](https://nomadcoders.co/javascript-for-beginners)
+[More Information](https://quickchabun.tistory.com/57)
